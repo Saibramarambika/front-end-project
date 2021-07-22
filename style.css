@@ -1,0 +1,105 @@
+.column1{
+    float: left;
+    padding-right: 50px;
+}
+
+.row{
+    gap: 140px;
+    padding: 100px;
+    padding-left: 40px;
+    padding-right: 100px;
+    height: 600px;
+    background: hsl(257, 40%, 49%);
+    background-image: url("images/bg-desktop.svg") ;
+    width: 93%;
+}
+
+.column2{
+    
+    padding: 125px;
+    padding-left: 20px;
+    padding-right: 50px;
+    text-align: left;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    line-height: 20px;
+
+}
+
+.image{
+    width: 600px;
+
+}
+
+.c{
+    border-radius: 200px;
+    border: none;
+    padding: 20px;
+    width: 240px;
+    color: blue;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.b{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fa {
+    padding: 10px;
+    
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    border: 2px solid white;
+    
+}
+  
+.fa-facebook {
+    
+    color: white;
+     
+}
+  
+.fa-twitter {
+    
+    color: white;
+}
+  
+  
+  
+.fa-instagram {
+    
+    color: white;
+}
+
+.social{
+   padding: 150px;
+   padding-right: 20px;
+   justify-content: right;
+   position: absolute;
+   right: 50px;
+   top: 570px;
+}
+
+.huddle{
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 100px;
+    bottom: 170px;
+}
+
+.material-icons{
+  position: absolute;
+  top: 50px;
+  size: 50px;
+  color: white;
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
